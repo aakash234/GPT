@@ -1,6 +1,3 @@
-  
-This repo is inspired by Andrej and Umar's YouTube videos.  
-
 The data loader is implimented in C++.  
  
 Since we have .npy shard files, we need cnpy module. `git clone https://github.com/rogersce/cnpy.git`  
